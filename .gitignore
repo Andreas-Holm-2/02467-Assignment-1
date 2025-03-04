@@ -1,2 +1,6 @@
 *.pkl
 part1.ipynb
+coauthorship_network.edgelist
+*.csv
+part4.ipynb
+assignment_part_1_names.txt
